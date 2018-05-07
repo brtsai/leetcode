@@ -20,3 +20,4 @@ For the example above, the output should be:
 |   1     | War       |   great 3D   |   8.9     |
 +---------+-----------+--------------+-----------+
 
+Runtime: Beats 89.35% of MySql submissions
