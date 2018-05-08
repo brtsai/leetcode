@@ -1,5 +1,3 @@
-# Write your MySQL query statement below
-
 SELECT
     courses.class
 FROM
