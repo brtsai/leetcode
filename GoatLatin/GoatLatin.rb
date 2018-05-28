@@ -1,5 +1,3 @@
-# @param {String} s
-# @return {String}
 def to_goat_latin(s)
     s.split(" ").map.with_index { |word, index| single_to_goat_latin(word, index + 1) }.join(" ")
 end
