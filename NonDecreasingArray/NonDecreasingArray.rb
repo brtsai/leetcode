@@ -1,5 +1,3 @@
-# @param {Integer[]} nums
-# @return {Boolean}
 def check_possibility(nums)
     count = 0
     left = 0
